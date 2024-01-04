@@ -1,0 +1,22 @@
+{
+  "name": "automationtesting",
+  "version": "1.0.0",
+  "description": "JavaScript Selenium Automation Testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --no-timeouts"
+  },
+  "keywords": [
+    "testing",
+    "automation",
+    "javascript",
+    "selenium"
+  ],
+  "author": "Justice Asare Owusu",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.4",
+    "mocha": "^10.2.0",
+    "selenium-webdriver": "^4.16.0"
+  }
+}
